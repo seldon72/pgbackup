@@ -9,7 +9,7 @@ setup(
     description='Database backups locally or to AWS S3.',
     long_description=readme,
     author='Paco',
-    author_email='ulloa.paco@gmail.com',
+    author_email='@mail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     install_requires=['boto3'],
